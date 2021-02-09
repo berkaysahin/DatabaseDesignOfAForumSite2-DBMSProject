@@ -5,6 +5,8 @@
   that creates the https://askubuntu.com/ site will use.
   
   Making the project with the business rules and entity relationship diagram in the previous assignment in PostgreSQL database.
+  
+  Previous assignment https://github.com/berkaysahin/DatabaseDesignOfAForumSite-DBMSProject
 
 ### Used Technologies
   
