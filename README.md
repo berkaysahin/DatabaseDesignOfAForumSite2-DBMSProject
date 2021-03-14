@@ -19,4 +19,4 @@ Sakarya University - Computer Engineering - Database Management Systems Course H
 
 Berkay Şahin - https://github.com/berkaysahin - https://www.linkedin.com/in/berkaysahin3/ - iletisim@berkaysahin.info
 
-![preview](Homework2Document.jpg)
+![Homework2Document](https://user-images.githubusercontent.com/23323317/111081371-08e50900-8514-11eb-9722-475091e46136.jpg)
